@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Here is My Personal Website.
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Link:  https://rishithakavuru.github.io/personal-website/
+
+All the files that are available in the repo!
